@@ -1,0 +1,27 @@
+{
+    "hue": {
+        "bridgeIP": "192.168.1.21",
+        "user": "ja55wHn-gWA7jOtQ8M4s3GE8oezk055V3rUgDimv",
+        "lightId": 1
+    },
+    "players": [
+        {
+            "name": "Team 1",
+            "buzzerKey": "UP",
+            "colour": "Red"
+        },
+        {
+            "name": "Team 2",
+            "buzzerKey": "DOWN",
+            "colour": "Blue"
+        }
+    ],
+    "colours": {
+        "Red": 0,
+        "Green": 25500,
+        "Blue": 45580,
+        "Neutral": 8597
+    },
+    "resetColour": "Neutral",
+    "resetSeconds": 5
+}
